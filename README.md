@@ -16,12 +16,6 @@ This repository is made publicly available for reference purposes only.
 All rights are reserved. No part of the code, documentation, or data may be copied, modified, or used without prior written permission from the author.  
 
 For permission requests, please contact: dimkalkantzis@gmail.com.
-## Feedback
-
-If you have any feedback, please reach out to us at dimkalkantzis@gmail.com
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
 ## Documentation
